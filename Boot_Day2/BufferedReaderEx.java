@@ -8,6 +8,18 @@
  * Version: 1.0
  */
 //package A_Boot_Camp.Day2;
+
+
+/**Basic Commands
+ * Read a line of input - br.readLine()
+ * Read multiple lines (loop) -	while ((line = br.readLine()) != null)
+ * Convert to int -	Integer.parseInt(line)
+ * Convert to double - Double.parseDouble(line)
+ * Close reader	- br.close()
+ */
+
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
