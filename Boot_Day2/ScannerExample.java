@@ -10,6 +10,22 @@
  */
 // package A_Boot_Camp.Day2;
 // Importing the Scanner class from the java.util package
+
+
+
+/** Basic Commands
+ * Read a string line -	sc.nextLine()
+ * Read a single word -	sc.next()
+ * Read an integer - sc.nextInt()
+ * Read a float - sc.nextFloat()
+ * Read a double  -	sc.nextDouble()
+ * Read a boolean - sc.nextBoolean()
+ * Check next input	- sc.hasNext()
+ * Close Scanner - sc.close()
+ */
+
+
+
 import java.util.Scanner;
 public class ScannerExample {
     public static void main(String[] args) {
