@@ -1,15 +1,15 @@
 /**
 * * This file is part of the Java Boot Camp course.
 * * This class demonstrates the use of a default constructor.
-* @author Dr. S. Sampath Kumar
-* @since 08-07-2025
+* @author Keerthi Aanand K S
+* @since 09-07-2025
 * @version 1.0
 */
-package A_Boot_Camp.Day3;
+//package A_Boot_Camp.Day3;
 
 public class E_DefaultConstructor {
-	String name;
-	int id;
+	String name="Keerthi";
+	int id = 115;
 	/** 
 	 * Default Constructor will assign default values to the data members.
 	 * In Java, if no constructor is defined, a default constructor 
@@ -18,7 +18,7 @@ public class E_DefaultConstructor {
 	 * with default values.
 	*/
 	E_DefaultConstructor() { 
-		System.out.println("Default constructor");
+		System.out.println("Default constructor called");
 	}
 
 	public static void main(String[] args)

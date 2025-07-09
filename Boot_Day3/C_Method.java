@@ -3,11 +3,11 @@
  * * This class demonstrates the use of static and 
  * * public methods in Java.
  * 
- * @author Dr. S. Sampath Kumar
- * @since 07-07-2025
+ * @author Keerthi Aanand K S
+ * @since 09-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day3;
+//package A_Boot_Camp.Day3;
 
 class Method {
   // Static method

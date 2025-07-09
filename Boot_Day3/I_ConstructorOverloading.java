@@ -5,11 +5,11 @@
  * * This class defines a class with multiple constructors
  * * that initialize the data members in different ways.
  * * Constructor overloading allows a class to have more than one constructor
- * @author Dr. S. Sampath Kumar
- * @since 08-07-2025
+ * @author Keerthi Aanand K S
+ * @since 09-07-2025
  * @version 1.0
  * */
-package A_Boot_Camp.Day3;
+//package A_Boot_Camp.Day3;
 class I_ConstructorOverloading{
 	int id = 110;
 	String name = "KAVIN KUMAR C";

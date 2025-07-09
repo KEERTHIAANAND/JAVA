@@ -6,11 +6,11 @@
  * * It is used to initialize an object using another object of the same class.
  * * This is useful when you want to create a new object with the same state as 
  * * an existing object.
- * @author Dr. S. Sampath Kumar
- * @since 08-07-2025
+ * @author Keerthi Aanand K S
+ * @since 09-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day3;
+//package A_Boot_Camp.Day3;
 
 public class G_CopyConstructor {
 	int id;
